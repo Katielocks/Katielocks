@@ -1,4 +1,3 @@
-
 ### Hi there, I'm Katherine Whitelock! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">
 
 - 🚄 Building [**NetRailPipeline**](…) – ETL of 10M+ rail incident records for delay-analysis dashboards  
