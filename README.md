@@ -3,4 +3,4 @@
 
 - 🚄 Building [**NetRailPipeline**](…) – ETL of 10M+ rail incident records for delay-analysis dashboards  
 - 🌦️ Created [**uk-midas-client**](…) – SDK powering archive retrieval UK weather lookups across 2,000+ stations  
-- 🧬 Open-sourced [**Lenia3D**](…) (🚀 **[Live Demo](https://katielocks.github.io/Projects/Lenia3D/)**) – 3D cellular-automata rendering 256³ voxels in <0.02s per frame  
+- 🧬 Open-sourced [**Lenia3D**](…) (🚀 **[Play Now!](https://katielocks.github.io/Projects/Lenia3D/)**) – 3D cellular-automata rendering 256³ voxels in <0.02s per frame  
